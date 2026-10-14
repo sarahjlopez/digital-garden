@@ -1,0 +1,22 @@
+---
+created: 2026-10-13T11:42
+updated: 2026-10-13T20:54
+---
+
+
+
+---
+--- [[2026-10-13]] --- 
+## Cocina Puerto Rico: Recipes from My Abuela’s Kitchen to Yours by Mia Castro
+
+![](https://m.media-amazon.com/images/I/81hbOfXEFAL._SL1500_.jpg)
+
+
+## I Am a Filipino: And This Is How We Cook by Nicole Ponseca and Miguel Trinidad
+
+![](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1529831194i/37590385.jpg)
+
+# Cooking con Omi: A Love Letter to Puerto Rican Home Cooking by Omi Hopper
+
+![](https://m.media-amazon.com/images/I/91IIAcX+v7L._SL1500_.jpg)
+
