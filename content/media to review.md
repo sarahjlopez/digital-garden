@@ -1,14 +1,19 @@
 ---
 created: 2026-10-14T10:06
-updated: 2026-10-14T10:12
-title: Review again for more details (media)
+updated: 2026-10-15T19:42
+title: Review for more details (media)
 ---
 
 
+
+> [!todo]
+> *look up recent watch history, search history, and open tabs to peruse*
+> 
+> 
 ---
 
 [[2026-10-14]] 
-# Seth Myers interviews Slayyyter
+# Seth Myers interviews [[Slayyyter]]
 
 [[2026-10-14]]
 
