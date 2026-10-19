@@ -1,8 +1,14 @@
 ---
 created: 2026-10-16T19:24
-updated: 2026-10-16T19:37
+updated: 2026-10-18T13:45
 ---
 # add art references 
+
+
+## noted [[2026-10-18]]
+
+- [ ] I want to add my own photos as reference - from trip(s) in Italy 
+- [ ] My lillipad and light filtering though the tree leaves (film and developed manually in dark room) - my prized possessions, I think. This is the photography I’m most proud of @ [[2026-10-18]] 13:13
 
 ## noted [[2026-10-16]]
 - [ ] merpeople historical art
