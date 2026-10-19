@@ -1,9 +1,7 @@
 ---
 created: 2026-10-13T11:42
-updated: 2026-10-19T10:19
+updated: 2026-10-19T10:22
 ---
-```table-of-contents
-```
 
 ---
 

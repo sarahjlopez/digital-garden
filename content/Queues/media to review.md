@@ -1,6 +1,6 @@
 ---
 created: 2026-10-14T10:06
-updated: 2026-10-15T19:42
+updated: 2026-10-19T10:25
 title: Review for more details (media)
 ---
 
@@ -12,8 +12,15 @@ title: Review for more details (media)
 > 
 ---
 
-[[2026-10-14]] 
-# Seth Myers interviews [[Slayyyter]]
+# [[2026-10-19]]
+
+- [ ] rewatch SOAD lead singer on Last Meals 
+-  why? nuggets of wisdom to reflect on 
+
+
+
+# [[2026-10-14]] 
+## Seth Myers interviews [[Slayyyter]]
 
 [[2026-10-14]]
 
