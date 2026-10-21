@@ -1,6 +1,6 @@
 ---
 created: 2026-10-14T10:06
-updated: 2026-10-19T10:25
+updated: 2026-10-21T09:26
 title: Review for more details (media)
 ---
 
@@ -12,9 +12,15 @@ title: Review for more details (media)
 > 
 ---
 
+
+# [[2026-10-21]]
+
+- [Hito Steyerl: Art, Automation and Authoritarianism | Doomscroll - YouTube](https://www.youtube.com/watch?v=hLrXie8DUnI&t=1986s)
+- [ ]  need more time to focus on this one 
+
 # [[2026-10-19]]
 
-- [ ] rewatch SOAD lead singer on Last Meals 
+- [ ] rewatch [[System of a Down]]'s [Serj Tankian Eats His Last Meal - YouTube](https://www.youtube.com/watch?v=Mo5JVuW4_qk)
 -  why? nuggets of wisdom to reflect on 
 
 

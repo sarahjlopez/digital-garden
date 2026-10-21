@@ -1,6 +1,6 @@
 ---
 created: 2026-10-16T19:24
-updated: 2026-10-19T12:22
+updated: 2026-10-20T17:13
 ---
 # add art references 
 
@@ -16,6 +16,6 @@ updated: 2026-10-19T12:22
 - [ ] [[Yool Kim]]
 - [ ] [[Jonathan Wolstenholme]]
 - [x] Whang-od Vogue Philippines cover ✅ 2026-10-19
-- [ ] still from [[2026-10-15]] or [[2026-10-14]] -ish of [[CRANK by Slayyyter]] music video fish and Donnie Darko-inspired bunny in dark on the dock
+- [x] still from [[2026-10-15]] or [[2026-10-14]] -ish of [[CRANK by Slayyyter]] music video fish and Donnie Darko-inspired bunny in dark on the dock ✅ 2026-10-18
  - [x] [[Apo Whang-od]] ✅ 2026-10-19
 

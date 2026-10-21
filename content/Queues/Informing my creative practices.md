@@ -1,10 +1,14 @@
 ---
 created: 2026-10-18T01:13
-updated: 2026-10-19T13:06
+updated: 2026-10-19T13:12
 ---
 
 
 # articles to read 
+(added [[2026-10-19]])
+
+- [ ]  - [Meet the 106-Year-Old Woman Keeping an Ancient Filipino Tattooing Tradition Alive | Vogue](https://www.vogue.com/article/apo-whang-od-and-the-indelible-marks-of-filipino-identity) [[Apo Whang-od]] 
+
 
 (added [[2026-10-18]])
 - [ ]  [Author Ocean Vuong on being generous in your work – The Creative Independent](https://thecreativeindependent.com/people/author-ocean-vuong-on-being-generous-in-your-work/) 
