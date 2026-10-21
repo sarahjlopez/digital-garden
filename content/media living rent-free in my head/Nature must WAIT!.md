@@ -1,6 +1,8 @@
 ---
 created: 2026-10-19T23:10
-updated: 2026-10-19T23:11
+updated: 2026-10-21T09:47
 ---
+- [nature must wait - YouTube](https://www.youtube.com/watch?v=eVbXeg98l2k)
 
-- [ ] gilmore girls thanksgiving ep s 2 or 3 
+season 5 episode 12 - [[Gilmore Girls]]
+
