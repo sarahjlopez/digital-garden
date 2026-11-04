@@ -1,6 +1,6 @@
 ---
 created: 2026-10-19T12:22
-updated: 2026-10-19T12:22
+updated: 2026-10-25T22:50
 ---
 
 
@@ -13,6 +13,9 @@ There are a couple recent posts on Reddit questioning if AI was used to create t
 Because of this, I think it's time to revisit my preliminary research and thoughts on on art + AI, and why, even though there are some similarities when new technology comes into play (the camera and film photography, digital photography, etc.) - there is something quite different about AI + art and why it AI-generated and AI-assisted art is not "true" art. Not in a snobbish way. But to explain that the person who commissions a piece of art is not the same as the creator of that art. The person who asks generative-AI to make something XYZ uses stolen art 
 
 This makes me also think of stolen art - physically (in museums) vs. stolen art, scanned or otherwise already digital - that generative-AI companies have taken and used for others to benefit from (the others NOT including the artist themselves). 
+
+
+Related: [[stolen art, museums and AI]] 
 
 ![[abodidora_001.png]]
 

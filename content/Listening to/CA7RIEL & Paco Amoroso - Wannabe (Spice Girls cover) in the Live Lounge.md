@@ -1,7 +1,14 @@
 ---
 created: 2026-10-19T10:08
-updated: 2026-10-19T10:13
+updated: 2026-10-25T22:52
 ---
+
+```table-of-contents
+```
+
+# notes
+
+## [[2026-10-19]] thoughts
 
 ![CA7RIEL & Paco Amoroso - Wannabe (Spice Girls cover) in the Live Lounge - YouTube](https://www.youtube.com/watch?v=DD4sJgtPFd8&list=RDDD4sJgtPFd8&start_radio=1)
 

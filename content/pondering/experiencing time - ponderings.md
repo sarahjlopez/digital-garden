@@ -1,6 +1,6 @@
 ---
 created: 2026-10-19T13:35
-updated: 2026-10-20T17:00
+updated: 2026-10-25T22:46
 title: experiencing time
 ---
 
