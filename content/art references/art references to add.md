@@ -1,9 +1,13 @@
 ---
 created: 2026-10-16T19:24
-updated: 2026-10-20T17:13
+updated: 2026-11-16T22:56
 ---
 # add art references 
 
+## noted [[2026-11-16]] 
+
+- [ ] Charmed season 3 promo pics (giving Eden's Crush - Get Over Yourself butterfly clips and sparkles vibes)
+- [x] https://youtu.be/ZIl27YEX3a0?list=RDZIl27YEX3a0 [[Tinashe + Friends - Boiler Room - New York]] ✅ 2026-11-16
 
 ## noted [[2026-10-18]]
 
